@@ -1,0 +1,8 @@
+# Claude configuration
+.claude/
+
+# VS Code extension packages
+*.vsix
+
+# Node modules (if any)
+node_modules/

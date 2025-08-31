@@ -1,0 +1,39 @@
+{
+  "name": "arete-theme",
+  "displayName": "Arete Theme",
+  "description": "A custom VS Code theme with warm, vibrant colors and excellent contrast for better code readability",
+  "version": "0.0.5",
+  "publisher": "PlatoArete",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Arete Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arete-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "warm",
+    "syntax",
+    "colors",
+    "sas"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PlatoArete/arete-theme.git"
+  },
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#110f10",
+    "theme": "dark"
+  }
+}
